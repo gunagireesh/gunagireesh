@@ -1,12 +1,12 @@
 Hi 👋 I’m **Guna Gireesh Sandala**
 
-🎓 B.Tech CSE student at Amrita Vishwa Vidyapeetam, Andhra Pradesh, India  
-💻 Interested in **cybersecurity, Python, and backend development**  
+🎓 B.Tech CSE student at **Amrita Vishwa Vidyapeetham**, Andhra Pradesh, India  
+💻 Interested in **cybersecurity, Python, and backend development**
 
 I’m building tools and projects in **Python**, focusing on:
 - Network security (SSH bruteforce detector, SmartSentinel)
 - Web and application projects (Tourist, LabExam, Capstone project)
-
+  
 🧰 Tech stack:
 - Languages: Python, [add more if you know: C, Java, etc.]
 - Tools: Git, GitHub, [VS Code or others you use]
